@@ -42,10 +42,6 @@ Uri: http://dmeter.local/wp-content/plugins/elementor/assets/js/webpack.runtime.
 File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
 Content Type: application/x-javascript
 
-Uri: http://dmeter.local/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
-Content Type: application/x-javascript
-
 Uri: http://dmeter.local/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
 File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
 Content Type: text/css
@@ -90,50 +86,6 @@ Uri: http://dmeter.local/wp-content/uploads/2024/09/7133a38e-ff48-47ed-af41-9571
 File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\7133a38e-ff48-47ed-af41-95716cac0226.webp
 Content Type: image/webp
 
-Uri: http://dmeter.local/wp-content/uploads/2024/09/8e78bfb6-7aaf-48df-9363-b0d26eacc758-150x150.webp
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\8e78bfb6-7aaf-48df-9363-b0d26eacc758-150x150.webp
-Content Type: image/webp
-
-Uri: http://dmeter.local/wp-content/uploads/2024/09/8e78bfb6-7aaf-48df-9363-b0d26eacc758-300x300.webp
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\8e78bfb6-7aaf-48df-9363-b0d26eacc758-300x300.webp
-Content Type: image/webp
-
-Uri: http://dmeter.local/wp-content/uploads/2024/09/8e78bfb6-7aaf-48df-9363-b0d26eacc758-768x768.webp
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\8e78bfb6-7aaf-48df-9363-b0d26eacc758-768x768.webp
-Content Type: image/webp
-
-Uri: http://dmeter.local/wp-content/uploads/2024/09/8e78bfb6-7aaf-48df-9363-b0d26eacc758.webp
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\8e78bfb6-7aaf-48df-9363-b0d26eacc758.webp
-Content Type: image/webp
-
-Uri: http://dmeter.local/wp-content/uploads/2024/09/avano2-150x150.jpg
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\avano2-150x150.jpg
-Content Type: image/jpeg
-
-Uri: http://dmeter.local/wp-content/uploads/2024/09/avano2.jpg
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\avano2.jpg
-Content Type: image/jpeg
-
-Uri: http://dmeter.local/wp-content/uploads/2024/09/azos2-1024x217.png
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\azos2-1024x217.png
-Content Type: image/png
-
-Uri: http://dmeter.local/wp-content/uploads/2024/09/azos2-1536x325.png
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\azos2-1536x325.png
-Content Type: image/png
-
-Uri: http://dmeter.local/wp-content/uploads/2024/09/azos2-2048x434.png
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\azos2-2048x434.png
-Content Type: image/png
-
-Uri: http://dmeter.local/wp-content/uploads/2024/09/azos2-300x64.png
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\azos2-300x64.png
-Content Type: image/png
-
-Uri: http://dmeter.local/wp-content/uploads/2024/09/azos2-768x163.png
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\azos2-768x163.png
-Content Type: image/png
-
 Uri: http://dmeter.local/wp-content/uploads/2024/09/cropped-cropped-dmeterbw-modified-180x180.png
 File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\cropped-cropped-dmeterbw-modified-180x180.png
 Content Type: image/png
@@ -158,22 +110,6 @@ Uri: http://dmeter.local/wp-content/uploads/2024/09/dmeterbw-modified.png
 File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\dmeterbw-modified.png
 Content Type: image/png
 
-Uri: http://dmeter.local/wp-content/uploads/2024/09/eco_labs_development_co_logo-150x150.jpeg
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\eco_labs_development_co_logo-150x150.jpeg
-Content Type: image/jpeg
-
-Uri: http://dmeter.local/wp-content/uploads/2024/09/eco_labs_development_co_logo.jpeg
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\eco_labs_development_co_logo.jpeg
-Content Type: image/jpeg
-
-Uri: http://dmeter.local/wp-content/uploads/2024/09/interform-150x150.jpeg
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\interform-150x150.jpeg
-Content Type: image/jpeg
-
-Uri: http://dmeter.local/wp-content/uploads/2024/09/interform.jpeg
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\interform.jpeg
-Content Type: image/jpeg
-
 Uri: http://dmeter.local/wp-content/uploads/2024/09/landscape-150x150.webp
 File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\landscape-150x150.webp
 Content Type: image/webp
@@ -190,18 +126,6 @@ Uri: http://dmeter.local/wp-content/uploads/2024/09/landscape.webp
 File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\landscape.webp
 Content Type: image/webp
 
-Uri: http://dmeter.local/wp-content/uploads/2024/09/silvi.jpg
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\silvi.jpg
-Content Type: image/jpeg
-
-Uri: http://dmeter.local/wp-content/uploads/2024/09/swot2-253x300.jpg
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\swot2-253x300.jpg
-Content Type: image/jpeg
-
-Uri: http://dmeter.local/wp-content/uploads/2024/09/swot2.jpg
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\swot2.jpg
-Content Type: image/jpeg
-
 Uri: http://dmeter.local/wp-content/uploads/2024/09/vision-300x283.png
 File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\vision-300x283.png
 Content Type: image/png
@@ -214,18 +138,6 @@ Uri: http://dmeter.local/wp-content/uploads/2024/09/vision.png
 File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\vision.png
 Content Type: image/png
 
-Uri: http://dmeter.local/wp-content/uploads/2024/09/vision2-300x262.png
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\vision2-300x262.png
-Content Type: image/png
-
-Uri: http://dmeter.local/wp-content/uploads/2024/09/vision2-768x670.png
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\vision2-768x670.png
-Content Type: image/png
-
-Uri: http://dmeter.local/wp-content/uploads/2024/09/vision2.png
-File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\2024\09\vision2.png
-Content Type: image/png
-
 Uri: http://dmeter.local/wp-content/uploads/elementor/css/global.css?ver=1725764703
 File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\elementor\css\global.css
 Content Type: text/css
@@ -234,11 +146,11 @@ Uri: http://dmeter.local/wp-content/uploads/elementor/css/post-10.css?ver=172576
 File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\elementor\css\post-10.css
 Content Type: text/css
 
-Uri: http://dmeter.local/wp-content/uploads/elementor/css/post-11.css?ver=1725764704
+Uri: http://dmeter.local/wp-content/uploads/elementor/css/post-11.css?ver=1725766063
 File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\elementor\css\post-11.css
 Content Type: text/css
 
-Uri: http://dmeter.local/wp-content/uploads/elementor/css/post-16.css?ver=1725764895
+Uri: http://dmeter.local/wp-content/uploads/elementor/css/post-16.css?ver=1725766071
 File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\elementor\css\post-16.css
 Content Type: text/css
 
@@ -246,7 +158,7 @@ Uri: http://dmeter.local/wp-content/uploads/elementor/css/post-24.css?ver=172576
 File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\elementor\css\post-24.css
 Content Type: text/css
 
-Uri: http://dmeter.local/wp-content/uploads/elementor/css/post-26.css?ver=1725764896
+Uri: http://dmeter.local/wp-content/uploads/elementor/css/post-26.css?ver=1725766333
 File Name: C:\Downloaded Web Sites\dmeter.local\wp-content\uploads\elementor\css\post-26.css
 Content Type: text/css
 
